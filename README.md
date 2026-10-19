@@ -1,2 +1,2 @@
 # taller-git
-practicas con GIT Y GITHUB
+me gustan las herramientas G I T
